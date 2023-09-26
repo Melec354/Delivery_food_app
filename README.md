@@ -8,17 +8,17 @@ The quality of the code leaves much to be desired, but I realized what mistakes 
 
 ## Main packages
 
-  get (GetX)
-  shared_preferences
-  google_maps_flutter
-  geocoding
-  geolocator
-  google_maps_flutter_web
-  flutter_google_places 
-  firebase_messaging
-  firebase_core
-  webview_flutter
-  
+  get (GetX)  
+  shared_preferences  
+  google_maps_flutter  
+  geocoding  
+  geolocator  
+  google_maps_flutter_web  
+  flutter_google_places  
+  firebase_messaging  
+  firebase_core  
+  webview_flutter  
+    
   flutter_typeahead  
   dots_indicator  
   persistent_bottom_nav_bar_v2
